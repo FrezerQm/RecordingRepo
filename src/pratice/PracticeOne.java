@@ -10,5 +10,9 @@ public class PracticeOne {
 	public void remoteMethod(){
 		//this is from remote repo
 	}
+	
+	public void methodTwo() {
+		
+	}
 
 }
